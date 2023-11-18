@@ -1,0 +1,56 @@
+{
+  "quest": ["This is a quiz about the React library."],
+  "Quiz": [
+    {
+      "Question": "What does React stand for?",
+      "option": ["React JS", "Reactive", "React Component", "React DOM"],
+      "Answer": 2,
+      "points": 10
+    },
+    {
+      "Question": "What are some of the benefits of using React?",
+      "option": [
+        "Easy to learn and use",
+        "Fast development time",
+        "Great community support",
+        "Less code needed"
+      ],
+      "Answer": 3,
+      "points": 10
+    },
+    {
+      "Question": "What is the purpose of the render method in React?",
+      "option": [
+        "Rendering HTML elements",
+        "Updating the state",
+        "Creating new components",
+        "Managing event handlers"
+      ],
+      "Answer": 0,
+      "points": 10
+    },
+    {
+      "Question": "What does it mean when a component has been rendered?",
+      "option": [
+        "The component's output has been displayed on the screen.",
+        "A new instance of that component is created and added to the DOM tree.",
+        "An existing component receives updated props from its parent.",
+        "When a component is unmounted, any state or data associated with it is destroyed."
+      ],
+      "Answer": 2,
+      "points": 10
+    },
+    {
+      "Question": "What are some common use cases for React components?",
+      "option": [
+        "Creating an application-wide navigation menu.",
+        "Displaying different views based on user input.",
+        "Building a search interface that filters results as the user types.",
+        "Implementing drag and drop functionality to reorder elements in a list."
+      ],
+      "Answer": 1,
+      "points": 10
+    }
+  ],
+  "Countr"
+}
